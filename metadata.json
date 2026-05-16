@@ -1,0 +1,8 @@
+{
+  "name": "Usher Beautz Studio",
+  "description": "A luxury beauty and styling studio offering premium makeup, hair, and aesthetic services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
